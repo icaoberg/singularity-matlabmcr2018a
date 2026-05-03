@@ -12,7 +12,9 @@ Singularity recipe for [Matlab MCR 2018a](https://www.mathworks.com/products/com
 
 ## Disclaimer
 
+[![Wold you buy me some coffee?](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/icaoberg)
+
 I am nothing but a humble programmer creating the container for this wonderful app.
 
 ---
-Copyleft © 2019 [icaoberg](http://www.andrew.cmu.edu/~icaoberg) at the [Computational Biology Department](http://www.cbd.cmu.edu) in [Carnegie Mellon University](http://www.cmu.edu)
+Copyright © 2019 [icaoberg](http://www.andrew.cmu.edu/~icaoberg) at [Carnegie Mellon University](http://www.cmu.edu)
